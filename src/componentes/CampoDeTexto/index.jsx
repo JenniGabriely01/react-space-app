@@ -13,11 +13,12 @@ const CampoTextoEstilizado = styled.input`
     border: 2px solid #c98cf1;
     background: transparent;
     box-sizing: border-box;
-    width: 556px;
+    width: 456px;
     color: #d9d9d9;
     font-weight: 400;
     font-size: 20px;
     line-height: 20px;
+    outline: none;
 
         /* Estilos para o placeholder */
         &::placeholder {
