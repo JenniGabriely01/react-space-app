@@ -6,11 +6,9 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Favoritar imagens 
 
-:heavy_check_mark: Funcionalidade 2  
-
-:heavy_check_mark: Funcionalidade 3  
+:heavy_check_mark: Dar zoom nas imagens
 
 
 ## Pré-requisitos
